@@ -10,6 +10,7 @@
 <p>Open your downloads folder and tap on the .apk file. If you get a permission error, go into your settings and look
     for something like "permissions" and "install from unknown sources" (Actual names vary between devices). Enable
     this permission for your file manager or downloads viewer.</p>
+<h3>IOS is not supported because I don't have a mac. Apple users should still be able to compile from source.</h3>
 <h2>Building from source</h2>
 <h3>Native version</h3>
 <ol>
